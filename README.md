@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santana-826534291/)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gs2ntana&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gs2ntana)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I currently use
