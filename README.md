@@ -15,7 +15,7 @@
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
-
+<br/>
 I'm a back-end developer. I'm from Brazil and I'm currently studying Information Systems at the Federal Institute of Technology Science of Sergipe
 
 ## Latest blog updates
