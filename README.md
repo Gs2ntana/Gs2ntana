@@ -1,4 +1,4 @@
-<a href="https://github.com/Gs2ntana"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=BELIEVE&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/Gs2ntana"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffdf6b&height=180&section=header&text=BELIEVE&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
@@ -52,8 +52,8 @@
   <a href="https://github.com/Gs2ntana"><img align="right" src="https://visitcount.itsvg.in/api?id=KAYOKG&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
 </div>
 
-<a href="https://github.com/KAYOKG">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+<a href="https://github.com/Gs2ntana">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffdf6b&height=180&section=footer&text=Whatever+Is+Good+for+Your+Soul%2C+Do+That&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
 </a>
 
 ## Latest blog updates
