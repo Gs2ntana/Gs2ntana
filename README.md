@@ -1,4 +1,4 @@
-<a href="https://github.com/Gs2ntana"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=180&section=header&text=BELIEVE&fontSize=30&fontColor=ffdf6b&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/Gs2ntana"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=180&section=header&text=Challenges+are+Opportunities+to+Showcase+one's+Expertise.&fontSize=30&fontColor=ffdf6b&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
