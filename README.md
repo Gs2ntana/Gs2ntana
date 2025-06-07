@@ -15,7 +15,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Gs2ntana">
-        <img width="420px" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gs2ntana&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=nord_dark" />
+        <img width="420px" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gs2ntana&bg_color=0a0c10&theme=transparent" />
       </a>
     </td>
   </tr>
@@ -27,7 +27,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Gs2ntana">
-        <img width="427px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gs2ntana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" />
+        <img width="427px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gs2ntana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0a0c10&stroke=937CD5&ring=937CD5&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" />
       </a>
     </td>
   </tr>
