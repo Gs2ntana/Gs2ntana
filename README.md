@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="center" style="display: grid; grid-template-columns: auto auto; justify-content: center; align-items: center; gap: 8px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px;">
     <a href="https://github.com/Gs2ntana">
       <img width="465px" height="140px" src="https://github-readme-stats.vercel.app/api?username=Gs2ntana&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Gustavo Santana github stats" />
     </a>
