@@ -6,19 +6,19 @@
 
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 8;">
-  <div style="display: flex; justify-content: left; gap: 8;">
+<div align="center" style="display: grid; grid-template-columns: auto auto; justify-content: center; align-items: center; gap: 8px;">
     <a href="https://github.com/Gs2ntana">
       <img width="465px" height="140px" src="https://github-readme-stats.vercel.app/api?username=Gs2ntana&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Gustavo Santana github stats" />
-    <img width="427px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gs2ntana&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
     </a>
-  </div>
-  <div style="display: flex; justify-content: right; gap: 8;">
     <a href="https://github.com/Gs2ntana">
-       <img width="420px" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gs2ntana&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=nord_dark" />
-    <img width="427px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gs2ntana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" />
+      <img width="420px" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gs2ntana&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=nord_dark" />
     </a>
-  </div>
+    <a href="https://github.com/Gs2ntana">
+      <img width="427px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gs2ntana&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+    </a>
+    <a href="https://github.com/Gs2ntana">
+      <img width="427px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gs2ntana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff" />
+    </a>   
 </div>
 
 </br>
