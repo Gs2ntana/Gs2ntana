@@ -81,6 +81,11 @@ Nothing new here ✅
 
 #
 
+## Latest badges achivements
+[![Module 1 - IA ](https://images.credential.net/badge/tiny/mxk1xw1s_1753228181602_badge.png)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/155849437)
+
+#
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gs2ntana/Gs2ntana/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gs2ntana/Gs2ntana/output/github-contribution-grid-snake-dark.svg">
