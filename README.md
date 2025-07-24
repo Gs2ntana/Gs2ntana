@@ -82,9 +82,9 @@ Nothing new here ✅
 #
 
 ## Latest badges achivements
-[![Module 3 - IA ](https://images.credential.net/badge/tiny/dglt9pcg_1753376929213_badge.png)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156053851)
-[![Module 2 - IA ](https://images.credential.net/badge/tiny/mpj2gtau_1753376320782_badge.png)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156052803)
-[![Module 1 - IA ](https://images.credential.net/badge/tiny/mxk1xw1s_1753228181602_badge.png)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/155849437)
+[![Module 3 - IA ](https://images.credential.net/badge/tiny/dglt9pcg_1753376929213_badge.png)](https://badges.plus.columbia.edu/7c59a895-daeb-4161-878e-0f6b466b1dd1#acc.Oyt8QzHj)
+[![Module 2 - IA ](https://images.credential.net/badge/tiny/mpj2gtau_1753376320782_badge.png)](https://badges.plus.columbia.edu/88a2def7-01d4-4535-84fe-0ff671e58ea8#acc.Wqb2pkiC)
+[![Module 1 - IA ](https://images.credential.net/badge/tiny/mxk1xw1s_1753228181602_badge.png)](https://badges.plus.columbia.edu/dc92720f-aa50-4db8-bad8-c73d0eca18d2#acc.rWpXNCtS)
 
 #
 
