@@ -82,9 +82,10 @@ Nothing new here ✅
 #
 
 ## Latest badges achivements
-[![Module 3 - IA ](https://images.credential.net/badge/tiny/dglt9pcg_1753376929213_badge.png)](https://badges.plus.columbia.edu/7c59a895-daeb-4161-878e-0f6b466b1dd1#acc.Oyt8QzHj)
-[![Module 2 - IA ](https://images.credential.net/badge/tiny/mpj2gtau_1753376320782_badge.png)](https://badges.plus.columbia.edu/88a2def7-01d4-4535-84fe-0ff671e58ea8#acc.Wqb2pkiC)
-[![Module 1 - IA ](https://images.credential.net/badge/tiny/mxk1xw1s_1753228181602_badge.png)](https://badges.plus.columbia.edu/dc92720f-aa50-4db8-bad8-c73d0eca18d2#acc.rWpXNCtS)
+[![Introduction to Deep Learning ](https://images.credential.net/badge/tiny/zriytr4v_1753377768242_badge.png)](https://badges.plus.columbia.edu/88a2def7-01d4-4535-84fe-0ff671e58ea8#acc.Wqb2pkiC)
+[![Introduction to ML through Linear Regression ](https://images.credential.net/badge/tiny/dglt9pcg_1753376929213_badge.png)](https://badges.plus.columbia.edu/7c59a895-daeb-4161-878e-0f6b466b1dd1#acc.Oyt8QzHj)
+[![Introduction to Optimization ](https://images.credential.net/badge/tiny/mpj2gtau_1753376320782_badge.png)](https://badges.plus.columbia.edu/88a2def7-01d4-4535-84fe-0ff671e58ea8#acc.Wqb2pkiC)
+[![Generic Recipe for AI-Related Problems ](https://images.credential.net/badge/tiny/mxk1xw1s_1753228181602_badge.png)](https://badges.plus.columbia.edu/dc92720f-aa50-4db8-bad8-c73d0eca18d2#acc.rWpXNCtS)
 
 #
 
