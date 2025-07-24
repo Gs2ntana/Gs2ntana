@@ -82,6 +82,7 @@ Nothing new here ✅
 #
 
 ## Latest badges achivements
+[![Module 3 - IA ](https://images.credential.net/badge/tiny/dglt9pcg_1753376929213_badge.png)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156053851)
 [![Module 2 - IA ](https://images.credential.net/badge/tiny/mpj2gtau_1753376320782_badge.png)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156052803)
 [![Module 1 - IA ](https://images.credential.net/badge/tiny/mxk1xw1s_1753228181602_badge.png)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/155849437)
 
