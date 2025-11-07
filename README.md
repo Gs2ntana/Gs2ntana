@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffdf6b&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Gustavo+Santana;I'm+19+years+old;I+am+from+Brazil;I+study+information+systems+at+IFS;Be+Welcome!🎉)](https://github.com/Gs2ntana)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffdf6b&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Gustavo+Santana;I'm+20+years+old;I+am+from+Brazil;I+study+information+systems+at+IFS;Be+Welcome!🎉)](https://github.com/Gs2ntana)
 
 </div>
 
