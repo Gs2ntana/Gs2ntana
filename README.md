@@ -82,7 +82,7 @@ Nothing new here ✅
 #
 
 ## Latest badges achivements
-[![Generic Recipe for AI-Related Problems ](https://images.credential.net/badge/tiny/mxk1xw1s_1753228181602_badge.png)](https://badges.plus.columbia.edu/dc92720f-aa50-4db8-bad8-c73d0eca18d2#acc.rWpXNCtS)
+[![Introduction to GenAI ](https://images.credential.net/badge/tiny/e9blj0gd_1753988269978_badge.png)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156671607)
 
 #
 
