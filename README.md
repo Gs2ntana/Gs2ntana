@@ -82,7 +82,8 @@ Nothing new here ✅
 #
 
 ## Latest badges achivements
-[![Learn AI Through Visualization ](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156671607)](https://badges.plus.columbia.edu/9b93c5e4-ce7f-4e3d-9d54-8a5ef84154bd#acc.CO2XRbjM)
+
+<a href="https://badges.plus.columbia.edu/9b93c5e4-ce7f-4e3d-9d54-8a5ef84154bd#acc.CO2XRbjM"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/156671607" alt="Learn AI Through Visualization"/></a>
 
 #
 
