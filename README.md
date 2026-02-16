@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Gs2ntana">
-        <img width="465px" height="140px" src="https://github-readme-stats.vercel.app/api?username=Gs2ntana&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Gustavo Santana github stats" />
+        <img width="465px" height="140px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gs2ntana&theme=nord_dark" alt="Gustavo Santana github stats" />
       </a>
     </td>
     <td align="center">
@@ -22,7 +22,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Gs2ntana">
-        <img width="427px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gs2ntana&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+        <img width="427px" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gs2ntana&bg_color=0a0c10&theme=transparent" />
       </a>
     </td>
     <td align="center">
